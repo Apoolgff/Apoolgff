@@ -4,8 +4,9 @@
 
 ## Sobre Mí
 
-- 💻 Desarrollador Full Stack
-- 🕹️ Desarrollador de Videojuegos
+💻 Desarrollador Frontend
+🔧 Desarrollador Backend
+🕹️ Desarrollador de Videojuegos
 
 ---
 
