@@ -1,16 +1,48 @@
-### Hi there 👋
+# ¡Hola! Soy [Paolo Ferro]
 
-<!--
-**Apoolgff/Apoolgff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desarrollador Full Stack
+- 🕹️ Desarrollador de Videojuegos
+
+---
+
+## Proyectos Videojuegos moviles:
+
+### Escape Pol [https://play.google.com/store/apps/details?id=com.Wandornen.ScapePol&hl=es&gl=US]
+Videojuego de plataformas y Puzzles
+
+### Run Pol [https://play.google.com/store/apps/details?id=com.Wandornen.RunPol&hl=es&gl=US]
+Videojuego endeless-runner hyper-casual
+
+### Spaceship Cave [https://play.google.com/store/apps/details?id=com.Wandornen.SpaceshipCave&hl=es&gl=US]
+Videojuego de naves hyper-casual
+
+---
+
+## Tecnologías Utilizadas
+
+- Html
+- CSS
+- Javascript
+- React
+- Git
+- Express
+- NodeJS
+- MongoDB
+- C#
+- Unity
+
+---
+
+## Contacto
+
+¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
+
+- Email: [wandornen@gmail.com]
+- LinkedIn: [En construccion]
+- Instagram: [https://instagram.com/Apoolgff]
+- Google Playstore: [https://play.google.com/store/apps/dev?id=6632579568267785315&hl=es_UY&gl=US]
+
