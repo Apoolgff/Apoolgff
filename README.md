@@ -12,6 +12,7 @@
 ## Proyectos Videojuegos moviles:
 
 **[Escape Pol](https://play.google.com/store/apps/details?id=com.Wandornen.ScapePol&hl=es&gl=US)**
+-
 **Videojuego de plataformas y Puzzles**
 
 ![EscapePol](https://github.com/Apoolgff/Apoolgff/assets/132407456/75c27fd2-be05-46e6-bfa4-2a85a0fe2a8e)
@@ -23,6 +24,7 @@
 ---
 
 **[Run Pol](https://play.google.com/store/apps/details?id=com.Wandornen.RunPol&hl=es&gl=US)**
+-
 **Videojuego endeless-runner hyper-casual**
 
 ![RunPol 1](https://github.com/Apoolgff/Apoolgff/assets/132407456/19a676c5-f629-407a-ba6d-6773c3226f6e)
@@ -34,6 +36,7 @@
 ---
 
 **[Spaceship Cave](https://play.google.com/store/apps/details?id=com.Wandornen.SpaceshipCave&hl=es&gl=US)**
+-
 **Videojuego de naves hyper-casual**
 
 ![SpaceShipCave](https://github.com/Apoolgff/Apoolgff/assets/132407456/4ebb1de7-5724-49b9-93f8-0211ad87f048)
