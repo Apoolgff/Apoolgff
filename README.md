@@ -4,9 +4,9 @@
 
 ## Sobre Mí
 
--💻 Desarrollador Frontend
--🔧 Desarrollador Backend
--🕹️ Desarrollador de Videojuegos
+-💻 Desarrollador Frontend 
+-🔧 Desarrollador Backend 
+-🕹️ Desarrollador de Videojuegos 
 
 ---
 
