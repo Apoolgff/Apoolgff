@@ -54,16 +54,26 @@
 
 ## Tecnologías Utilizadas
 
-- Html
-- CSS
-- Javascript
-- React
-- Git
-- Express
-- NodeJS
-- MongoDB
-- C#
-- Unity
+- ![Static Badge](https://img.shields.io/badge/Html-red?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/CSS-blue?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/React-skyblue?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Git-red?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Express-green?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/NodeJS-lightgreen?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/C%23-purple?style=plastic)
+
+- ![Static Badge](https://img.shields.io/badge/Unity-gray?style=plastic)
+
 
 ---
 
