@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-💻 Desarrollador Frontend 
+💻 Desarrollador Frontend  
 
 🔧 Desarrollador Backend 
 
