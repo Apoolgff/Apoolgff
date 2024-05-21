@@ -8,7 +8,7 @@
 
 🔧 Desarrollador Backend 
 
-🕹️ Desarrollador de Videojuegos 
+🕹️ Desarrollador de Videojuegos  
 
 ---
 
