@@ -68,8 +68,8 @@
 
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
 
-- 📩 [Mail](wandornen@gmail.com) wandornen@gmail.com (Game Dev)
-- 📩 [Mail](devpaologff@gmail.com) devpaologff@gmail.com
+- 📩 wandornen@gmail.com (Game Dev)
+- 📩 devpaologff@gmail.com
 - 👤 [Instagram](https://instagram.com/Apoolgff)
 - 🕹️ [Google Playstore](https://play.google.com/store/apps/dev?id=6632579568267785315&hl=es_UY&gl=US)
 
