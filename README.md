@@ -66,7 +66,7 @@
 
 ## Contacto
 
-¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
+¡No dudes en contactarme si tienes alguna pregunta o sugerencia! 
 
 - 📩 wandornen@gmail.com (Game Dev)
 - 📩 devpaologff@gmail.com
